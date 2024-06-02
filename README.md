@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @manoj-sai-T
+<h1 align="center">Hi 👋, I'm Manoj Sai</h1>
+<h3 align="center">A curious mind with a passion for coding</h3>
+
+![](https://komarev.com/ghpvc/?username=manoj-sai-T)
+
+
+
 - 👀 I’m interested in Data Science, Machine Learning and frontend development
 - 🌱 I’m currently learning frontend development
 - 📫 How to reach me manojsai699@gmail.com
